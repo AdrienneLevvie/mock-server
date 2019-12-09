@@ -1,0 +1,176 @@
+{
+  "users": [
+    {
+      "email": "Zoie.Kling@gmail.com",
+      "password": "$2a$10$5B5IpNVzVTpI0mz3d82.ruWolp08uldA.ih/J/3os3x3uh7H41PmW",
+      "plainPassword": "l6GL5XocMweubyn",
+      "username": "Sibyl.Stracke",
+      "firstName": "Berenice",
+      "lastName": "Hagenes",
+      "id": 1
+    },
+    {
+      "email": "Emile20@gmail.com",
+      "password": "$2a$10$yRRP9qnsbVXCIlpsgNtPceTumwwttiZ08LNftLE5LWE/w6hqUyUuy",
+      "plainPassword": "A9UsqbHhwC47jqu",
+      "username": "Marlon86",
+      "firstName": "Florian",
+      "lastName": "McKenzie",
+      "id": 2
+    },
+    {
+      "email": "Adrian92@yahoo.com",
+      "password": "$2a$10$/VTucdZtNhV1F5/S3nZleuqUp6NOnesAoa1Zk/r/q4FMM4ijL845.",
+      "plainPassword": "cQSZroFfnEPQPOY",
+      "username": "Jean.Stiedemann",
+      "firstName": "Amely",
+      "lastName": "Quigley",
+      "id": 3
+    },
+    {
+      "email": "Hailee73@hotmail.com",
+      "password": "$2a$10$vvOBprg4Q7Tq.4xEOgCZ0.EYIBR55vPSw9klWdO/HqgmdMTC47e1m",
+      "plainPassword": "ry40JsRoKyXrGAd",
+      "username": "Marlon.Russel",
+      "firstName": "Juliana",
+      "lastName": "Kulas",
+      "id": 4
+    },
+    {
+      "email": "Leatha_Skiles49@yahoo.com",
+      "password": "$2a$10$NRZdQQwxdY5rTN7EeCF.nesMnT/0DD0GNn3KGyXnG9fVaLKROeylu",
+      "plainPassword": "jRB8F5vDAsbPQee",
+      "username": "Maudie.Braun",
+      "firstName": "Jacey",
+      "lastName": "Hamill",
+      "id": 5
+    },
+    {
+      "email": "Hermina_Denesik@hotmail.com",
+      "password": "$2a$10$2U9pS3bq6dseLZYD8QN7Bu2omXbQxz.wR.RGFQ8Zw1fxRiMnEIlji",
+      "plainPassword": "LOMIzIWNJqm_Stu",
+      "username": "Kamryn21",
+      "firstName": "Kaylin",
+      "lastName": "Wolf",
+      "id": 6
+    },
+    {
+      "email": "Newton_McClure@yahoo.com",
+      "password": "$2a$10$cu2qLP4PhU6oaJ57DSCwQeS7MoSOdSH6iET6gpLJJN7PlH5itCH5K",
+      "plainPassword": "Mrao6Mik2CIiZ_4",
+      "username": "Eula21",
+      "firstName": "Noel",
+      "lastName": "Howell",
+      "id": 7
+    },
+    {
+      "email": "Haylie.Torphy22@gmail.com",
+      "password": "$2a$10$8OKpSrB4PaxcvhCnzV5wdePp.hu1H0n1DZRLgrcJvfRJTGEbjocc.",
+      "plainPassword": "ZhVMpPPD0oEE8TX",
+      "username": "Alfreda.Ullrich37",
+      "firstName": "Elmo",
+      "lastName": "Dietrich",
+      "id": 8
+    },
+    {
+      "email": "Marlen.Williamson@hotmail.com",
+      "password": "$2a$10$vZ10LhgNsZg3zgHW.kvaT.VIR27guwLofdea/SAXlBR57gR7chgle",
+      "plainPassword": "nXjdk8Zf7v33GYX",
+      "username": "Una.Bergnaum57",
+      "firstName": "Henderson",
+      "lastName": "Kshlerin",
+      "id": 9
+    },
+    {
+      "email": "Imelda74@yahoo.com",
+      "password": "$2a$10$KcqH0n3v729NdzVq0Q3MDeiZGCO0rkuBOqtuRmfcfkCYGGI.4zU96",
+      "plainPassword": "OyhItt4zxiEwMYd",
+      "username": "Chadrick95",
+      "firstName": "Vivienne",
+      "lastName": "Effertz",
+      "id": 10
+    }
+  ],
+  "patients": [
+    {
+      "fistName": "Zackery",
+      "lastName": "Reilly",
+      "city": "West Antoneberg",
+      "street": "50677 Akeem Route",
+      "country": "Gabon",
+      "id": 1
+    },
+    {
+      "fistName": "Jonathan",
+      "lastName": "Armstrong",
+      "city": "South Dinaland",
+      "street": "4257 Charity Lodge",
+      "country": "Cote d'Ivoire",
+      "id": 2
+    },
+    {
+      "fistName": "Judson",
+      "lastName": "Robel",
+      "city": "Gutmannside",
+      "street": "9138 Fadel Curve",
+      "country": "Brazil",
+      "id": 3
+    },
+    {
+      "fistName": "Llewellyn",
+      "lastName": "Stamm",
+      "city": "Mitchellchester",
+      "street": "321 Kuhic Highway",
+      "country": "Senegal",
+      "id": 4
+    },
+    {
+      "fistName": "Kathryn",
+      "lastName": "Haag",
+      "city": "Port Barbara",
+      "street": "314 Violette Crest",
+      "country": "Western Sahara",
+      "id": 5
+    },
+    {
+      "fistName": "Lee",
+      "lastName": "VonRueden",
+      "city": "Justiceton",
+      "street": "987 Jannie Plaza",
+      "country": "Bahamas",
+      "id": 6
+    },
+    {
+      "fistName": "Kobe",
+      "lastName": "Waelchi",
+      "city": "Willmsside",
+      "street": "6311 Jan Throughway",
+      "country": "Grenada",
+      "id": 7
+    },
+    {
+      "fistName": "Narciso",
+      "lastName": "Zieme",
+      "city": "West Bradley",
+      "street": "96035 Jade Place",
+      "country": "Heard Island and McDonald Islands",
+      "id": 8
+    },
+    {
+      "fistName": "Bette",
+      "lastName": "Lueilwitz",
+      "city": "South Isabella",
+      "street": "7344 Hills Inlet",
+      "country": "Kazakhstan",
+      "id": 9
+    },
+    {
+      "fistName": "Fanny",
+      "lastName": "Kuphal",
+      "city": "Port Rahulberg",
+      "street": "6980 Weimann Forge",
+      "country": "Northern Mariana Islands",
+      "id": 10
+    }
+  ]
+}
